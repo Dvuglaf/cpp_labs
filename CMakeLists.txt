@@ -13,7 +13,9 @@ add_subdirectory(lab-2-operators)
 add_subdirectory(lab-3-xxx)
 add_subdirectory(lab-4-dynamic_polymorphism)
 add_subdirectory(lab-6-sorts)
+add_subdirectory(lab-7-opengl)
 add_subdirectory(lab-8-data_structures)
+add_subdirectory(lab-9-qt)
 add_subdirectory(lab-10-graph)
 
 
